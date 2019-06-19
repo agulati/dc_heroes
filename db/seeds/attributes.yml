@@ -1,0 +1,45 @@
+-
+  name: Dexterity
+  abbreviation: DEX
+  type: physical
+  category: acting_opposing
+-
+  name: Strength
+  abbreviation: STR
+  type: physical
+  category: effect
+-
+  name: Body
+  abbreviation: BODY
+  type: physical
+  category: resistance
+-
+  name: Intelligence
+  abbreviation: INT
+  type: mental
+  category: acting_opposing
+-
+  name: Will
+  abbreviation: WILL
+  type: mental
+  category: effect
+-
+  name: Mind
+  abbreviation: MIND
+  type: mental
+  category: resistance
+-
+  name: Influence
+  abbreviation: INFL
+  type: mystical
+  category: acting_opposing
+-
+  name: Aura
+  abbreviation: AURA
+  type: mystical
+  category: effect
+-
+  name: Spirit
+  abbreviation: SPIRIT
+  type: mystical
+  category: resistance

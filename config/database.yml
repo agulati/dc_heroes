@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: dcheroes_development
+  pool: 5
+  username: agulati
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: dcheroes_test
+  pool: 5
+  username: agulati
