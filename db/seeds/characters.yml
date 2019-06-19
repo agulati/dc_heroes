@@ -1,0 +1,64 @@
+-
+  name: Nightwing
+  initiative: 28
+  hero_points: 90
+  character_attributes:
+    -
+      abbreviation: DEX
+      value: 8
+    -
+      abbreviation: STR
+      value: 4
+    -
+      abbreviation: BODY
+      value: 6
+    -
+      abbreviation: INT
+      value: 8
+    -
+      abbreviation: WILL
+      value: 8
+    -
+      abbreviation: MIND
+      value: 7
+    -
+      abbreviation: INFL
+      value: 8
+    -
+      abbreviation: AURA
+      value: 7
+    -
+      abbreviation: SPIRIT
+      value: 7
+-
+  name: Deadshot
+  initiative: 24
+  hero_points: 55
+  character_attributes:
+    -
+      abbreviation: DEX
+      value: 8
+    -
+      abbreviation: STR
+      value: 4
+    -
+      abbreviation: BODY
+      value: 5
+    -
+      abbreviation: INT
+      value: 6
+    -
+      abbreviation: WILL
+      value: 6
+    -
+      abbreviation: MIND
+      value: 6
+    -
+      abbreviation: INFL
+      value: 6
+    -
+      abbreviation: AURA
+      value: 4
+    -
+      abbreviation: SPIRIT
+      value: 4
